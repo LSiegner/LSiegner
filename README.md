@@ -32,6 +32,6 @@ I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the s
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/atom" title="atom" title="atom" alt="atom" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="atom" title="atom" alt="atom" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vstudio" title="vstudio" alt="vstudio" width="40" height="40"/>
 </div>
