@@ -28,4 +28,7 @@ I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the s
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
 </div>
