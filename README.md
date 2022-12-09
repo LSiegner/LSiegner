@@ -27,6 +27,5 @@ I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the s
 ### 🛠️ Languages and Tools:
 
 <div>
-nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
