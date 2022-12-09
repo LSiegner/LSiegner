@@ -10,9 +10,13 @@
 
 ---
 
-<h1>
-  Hey there 👋:
+<h1 align="center">
+  Hey there 👋
 </h1>
+
+### About me: 
+I'm an aspiring data engineer/data scientist with a background in simulation software of physical systems and financial markets
+
 
 
 <!--
