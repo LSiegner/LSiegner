@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=400 width="800"/>
-</div>
+</div><br>
 
+</br>
 <div id="badge" align="center">
   <a href="https://www.linkedin.com/in/leon-siegner">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
