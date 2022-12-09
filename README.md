@@ -14,22 +14,19 @@
   Hey there 👋
 </h1>
 
-### About me: 
-I'm an aspiring data engineer/data scientist with a background in simulation software of physical systems and financial markets
+### :About me: 
+I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the simulation of physical/biological systems 👨‍🔬 and financial markets 🧑‍💻
 
+- 🔭 I’m currently working on my master studies in physics at the University of Cologne
+- 🌱 I’m currently learning the basics of data engineering/data science with a focus on precision oncology/sytems medicine 📚
+- 🤔 I’m looking for a mentor helping me to achieve my goals
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leon-siegner)
 
+---
 
-<!--
-**LSiegner/LSiegner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages and Tools:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
