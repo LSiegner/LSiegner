@@ -21,7 +21,7 @@ I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the s
 - 🔭 I’m currently working on my master studies in physics at the University of Cologne as well as looking for part time jobs
 - 🌱 I’m currently learning data engineering/data science with a focus on precision oncology/sytems medicine 📚
 - :star_struck: I'm open to collaborate on any topic related to data engineering/data science 
-- 🤔 I’m looking for a mentor helping me to achieve my goals in the fields of data engineering
+- 🤔 What I’m looking for? A mentor helping me to achieve my goals in the fields of data engineering
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leon-siegner)
 
 ---
