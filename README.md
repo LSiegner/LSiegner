@@ -17,12 +17,9 @@
 
 ### :About me: 
 I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the simulation of physical/biological systems 👨‍🔬 and financial markets 🧑‍💻
-
-- 🔭 I’m currently working on my master studies in physics at the University of Cologne as well as looking for part time jobs
-- 🌱 I’m currently learning data engineering/data science with a focus on precision oncology/sytems medicine 📚
-- :star_struck: I'm open to collaborate on any topic related to data engineering/data science 
-- 🤔 What I’m looking for? A mentor helping me to achieve my goals in the fields of data engineering
-- 📫 How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/leon-siegner-89a4ab2b0/)
+- 📫 If you want to reach out to me: [![Linkedin Badge](https://www.linkedin.com/in/leon-siegner-89a4ab2b0/)
+- I'm always open for collaboration, have done this earlier in my Bachelors.
+- If you are a mentor feel, I'm always always happy to look for someone with more experience and guidance
 
 ---
 
