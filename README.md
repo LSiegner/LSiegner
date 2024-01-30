@@ -4,7 +4,7 @@
 
 </br>
 <div id="badge" align="center">
-  <a href="https://www.linkedin.com/in/leon-siegner">
+  <a href="https://www.linkedin.com/in/leon-siegner-89a4ab2b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@ I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the s
 - 🌱 I’m currently learning data engineering/data science with a focus on precision oncology/sytems medicine 📚
 - :star_struck: I'm open to collaborate on any topic related to data engineering/data science 
 - 🤔 What I’m looking for? A mentor helping me to achieve my goals in the fields of data engineering
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leon-siegner)
+- 📫 How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/leon-siegner-89a4ab2b0/)
 
 ---
 
