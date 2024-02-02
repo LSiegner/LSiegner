@@ -12,18 +12,18 @@
 ---
 
 <h1 align="center">
-  Hey there 👋
+  Hey there 
 </h1>
 
 ### :About me: 
-I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the simulation of physical/biological systems 👨‍🔬 and financial markets 🧑‍💻
-- 📫 If you want to reach out to me: [![Linkedin Badge](https://www.linkedin.com/in/leon-siegner-89a4ab2b0/)
+I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the simulation of physical/biological systems and financial markets
+- If you want to reach out to me: [![Linkedin Badge](https://www.linkedin.com/in/leon-siegner-89a4ab2b0/)
 - I'm always open for collaboration, have done this earlier in my Bachelors.
 - If you are a mentor feel, I'm always always happy to look for someone with more experience and guidance
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
