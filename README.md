@@ -17,7 +17,7 @@
 
 ### :About me: 
 I'm an aspiring data engineer/data scientist 🇩🇪 with a background in the simulation of physical/biological systems and financial markets
-- If you want to reach out to me: [![Linkedin Badge](https://www.linkedin.com/in/leon-siegner-89a4ab2b0/)
+- If you want to reach out to me, message me on Linkedin
 - I'm always open for collaboration, have done this earlier in my Bachelors.
 - If you are a mentor feel, I'm always always happy to look for someone with more experience and guidance
 
